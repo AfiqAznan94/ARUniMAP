@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<InventoryItems>
+  <InventoryItem ID = "Block A" Type ="none">
+    <ItemTitle>Block A</ItemTitle>
+	<ItemDesc>Block A berhadapan dengan kompleks serbaguna PFi2. mempunyai 3 tingkat . bilik bermula dgn A-0-1</ItemDesc>
+	<Image>BlockA</Image>
+  </InventoryItem>
+
+
+  <InventoryItem ID = "Block A" Type ="none">
+    <ItemTitle>Block A</ItemTitle>
+    <ItemDesc>Block A berhadapan dengan medan selera PFi2. mempunyai 3 tingkat . bilik bermula dgn A-0-1</ItemDesc>
+    <Image>BlockA</Image>
+  </InventoryItem>
+  
+  <InventoryItem ID = "Block B" Type = "none">
+    <ItemTitle>Block B</ItemTitle>
+    <ItemDesc>Block B belakang dan bersambung dengan Block A. mempunyai 3 tingkat . bilik bermula dgn B-0-1</ItemDesc>
+    <Image>BlockB</Image>
+  </InventoryItem>
+  
+  <InventoryItem ID = "Block C" Type ="none">
+    <ItemTitle>Block C</ItemTitle>
+    <ItemDesc>Block C berhadapan dengan parking kompleks serbaguna PFi2. mempunyai 3 tingkat . bilik bermula dgn C-0-1</ItemDesc>
+    <Image>BlockC</Image>
+  </InventoryItem>
+
+  <InventoryItem ID = "Block D" Type ="none">
+    <ItemTitle>Block D</ItemTitle>
+    <ItemDesc>Block D belakang dan bersambung dengan Block C. mempunyai 3 tingkat . bilik bermula dgn D-0-1</ItemDesc>
+    <Image>BlockD</Image>
+  </InventoryItem>
+
+  <InventoryItem ID = "Bilik 1" Type = "none">
+    <ItemTitle>Bilik 1</ItemTitle>
+    <ItemDesc>Bilik 1</ItemDesc>
+    <Image>Bilik</Image>
+  </InventoryItem>
+
+  <InventoryItem ID = "Bilik 2" Type = "none">
+    <ItemTitle>Bilik 2</ItemTitle>
+    <ItemDesc>Bilik 2</ItemDesc>
+    <Image>Bilik</Image>
+  </InventoryItem>
+
+  <InventoryItem ID = "Meja Makan" Type = "none">
+    <ItemTitle>Meja Makan</ItemTitle>
+    <ItemDesc>Meja Makan terdapat di ruang tamu mempunyai 6 kerusi</ItemDesc>
+    <Image>Meja</Image>
+  </InventoryItem>
+
+  <InventoryItem ID = "Tandas" Type = "none">
+    <ItemTitle>Tandas</ItemTitle>
+    <ItemDesc>Terdapat 3 ruang. 2 jamban cangkung dan 1 jamban duduk . Tempat basuh baju juga disediakan diluar tandas</ItemDesc>
+    <Image>Tandas</Image>
+  </InventoryItem>
+
+  <InventoryItem ID = "Pfi2Cafe" Type = "mul">
+    <ItemTitle>Kompleks Serbaguna Pfi2</ItemTitle>
+    <ItemDesc>
+      Ground Floor :
+      - Food Court 
+      - Toilet
+      - ATM Machine
+      - Grocery Store
+      Level 1 :
+      - Pos Office
+      - Pfi2 Management Office
+      - Surau
+    </ItemDesc>
+    <Image>Cafe</Image>
+  </InventoryItem>
+  
+
+</InventoryItems>
